@@ -1,4 +1,4 @@
-# Legal Fly Pro v2.0
+# Legal Fly 
 
 AI-powered contract analysis: classify, extract clauses, assess risks, compare versions, and generate professional PDF reports.
 
